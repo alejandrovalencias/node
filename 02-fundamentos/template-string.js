@@ -1,0 +1,10 @@
+let nombre = 'Deadpoll';
+let real = 'Wade Winston';
+
+//console.log(`${nombre} ${real}`);
+
+function getNombre() {
+    return `${nombre } ${real}`;
+}
+
+console.log(`El nombre de: ${getNombre()}`);
