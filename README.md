@@ -13,9 +13,9 @@ Manejo del require y guardar en un archivo algún valor
 # 04-por-hacer
 Agregar tareas, eliminar tareas y actualizar , simulando una base de datos con un archivo json
 
-# Aplicación clima carpeta 05-clima-mundo 
+# 05-clima-mundo 
+Aplicación para consultar el clima de una ciudad consumiendo Apis con axios
 Recuerde ejecutar el ```npm install``` para las librerias
-
 ### Ejemplo
 ```
 node app -d "Medellin colombia"
