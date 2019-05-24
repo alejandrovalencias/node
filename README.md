@@ -12,6 +12,12 @@ Manejo del require y guardar en un archivo algún valor
 
 # 04-por-hacer
 Agregar tareas, eliminar tareas y actualizar , simulando una base de datos con un archivo json
+```
+node app listar 
+node app crear -d "Nombre tarea"
+node app actualizar -d "Nombre tarea"
+node app borrar -d "Nombre tarea"
+```
 
 # 05-clima-mundo 
 Aplicación para consultar el clima de una ciudad consumiendo Apis con axios
@@ -20,3 +26,7 @@ Recuerde ejecutar el ```npm install``` para las librerias
 ```
 node app -d "Medellin colombia"
 ```
+
+# 06-webserver
+Aplicación express en la cual se muestra un menu y manejo de handlebars 
+
